@@ -1,0 +1,52 @@
+.container1{
+    /* background-image: url(bg3.avif); */
+    background-size: cover;
+    height: 50px;
+  
+    width: 100%;
+}
+.container1 a{
+    color: #fff;
+}
+.crd img{
+    border-radius: 15px;
+    height: 250px;
+   
+}
+.crd{
+    border: .1px solid rgba(128, 128, 128, 0.261);
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+}
+.cards{
+    padding: 20px;
+}
+.nav{
+    display: flex;
+    width: 100%;
+    background-color: seagreen;
+}
+.navbar-nav ml-auto{
+    display: flex;
+    justify-content: end;
+}
+nav{
+    background-image: url(bgnav.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.nav-link{
+    color: #fff;
+   
+}
+.nav-item{
+    color:#fff;
+}
+.navbar-brand{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+}
